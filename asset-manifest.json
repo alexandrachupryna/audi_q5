@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/audi_q5/static/css/main.1e41e86a.chunk.css",
+    "main.js": "/audi_q5/static/js/main.40018c55.chunk.js",
+    "main.js.map": "/audi_q5/static/js/main.40018c55.chunk.js.map",
+    "runtime-main.js": "/audi_q5/static/js/runtime-main.ef2025e5.js",
+    "runtime-main.js.map": "/audi_q5/static/js/runtime-main.ef2025e5.js.map",
+    "static/js/2.0f26476d.chunk.js": "/audi_q5/static/js/2.0f26476d.chunk.js",
+    "static/js/2.0f26476d.chunk.js.map": "/audi_q5/static/js/2.0f26476d.chunk.js.map",
+    "index.html": "/audi_q5/index.html",
+    "precache-manifest.595f12ddd4cbb05e6fc8b20eb861f0d1.js": "/audi_q5/precache-manifest.595f12ddd4cbb05e6fc8b20eb861f0d1.js",
+    "service-worker.js": "/audi_q5/service-worker.js",
+    "static/css/main.1e41e86a.chunk.css.map": "/audi_q5/static/css/main.1e41e86a.chunk.css.map",
+    "static/media/Forms.css": "/audi_q5/static/media/Layer3.eb406f83.png",
+    "static/media/Shadow1.png": "/audi_q5/static/media/Shadow1.6be640a2.png",
+    "static/media/Shadow2.png": "/audi_q5/static/media/Shadow2.1067d539.png",
+    "static/media/auto.png": "/audi_q5/static/media/auto.3ac6a92e.png"
+  }
+}
