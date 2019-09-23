@@ -1,0 +1,159 @@
+p {
+  margin: 0;
+}
+
+@font-face {
+  font-family: 'Audi Type Screen Normal';
+  src: url('./AudiType/AudiTypeScreen-Normal.eot');
+  src: url('./AudiType/AudiTypeScreen-Normal.eot?#iefix') format('embedded-opentype'),
+  url('./AudiType/AudiTypeScreen-Normal.woff') format('woff'),
+  url('./AudiType/AudiTypeScreen-Normal.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Audi Type Screen Bold';
+  src: url('./AudiType/AudiTypeScreen-Bold.eot');
+  src: url('./AudiType/AudiTypeScreen-Bold.eot?#iefix') format('embedded-opentype'),
+  url('./AudiType/AudiTypeScreen-Bold.woff') format('woff'),
+  url('./AudiType/AudiTypeScreen-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Audi Type Screen Light';
+  src: url('./AudiType/AudiTypeScreen-Light.eot');
+  src: url('./AudiType/AudiTypeScreen-Light.eot?#iefix') format('embedded-opentype'),
+  url('./AudiType/AudiTypeScreen-Light.woff') format('woff'),
+  url('./AudiType/AudiTypeScreen-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.banner_div {
+  background-color: rgba(30,30,30,0);
+  border: 5px solid #e4e4e4;
+  margin: 6.5vw 7.8vw 6.5vw 17vw;
+}
+
+.auto_block {
+  width: 37.2vw;
+  position: absolute;
+  top: 11vw;
+  left: 7.8vw;
+}
+
+.auto_img {
+  max-width: 100%;
+  position: relative;
+  z-index: 1;
+}
+
+.shadowAuto {
+  position: absolute;
+  max-width: 100%;
+  bottom: 0;
+  left: 3%;
+}
+
+.shadowWheel1 {
+  position: absolute;
+  bottom: 6%;
+  left: 6.5%;
+}
+
+.shadowWheel2 {
+  position: absolute;
+  bottom: -1%;
+  left: 42%;
+}
+
+.shadowWheel3 {
+  position: absolute;
+  bottom: 17%;
+  left: 50%;
+}
+
+.shadowWheel4 {
+  position: absolute;
+  bottom: 13%;
+  left: 83%;
+}
+
+.container {
+  margin: 4.3vw 3.5vw 4.3vw 33.2vw;
+}
+ 
+.model_title {
+  font-size: 3vw;
+  line-height: 3vw;
+  color: #e92d3e;
+  font-family: 'Audi Type Screen Bold', sans-serif;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 0 0 1.5vw;
+}
+
+.model_type {
+  display: inline-block;
+  font-size: 1vw;
+  line-height: 1.5vw;
+  color: #151515;
+  font-family: "Audi Type Screen Light", sans-serif;
+  font-weight: 300;
+  width: 137px;
+  margin-left: 36px;
+  margin-top: 0;
+}
+
+.leaseDeals {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: 2vw;
+  border-bottom: 1px solid #e4e4e4;
+  padding-bottom: 2vw;
+}
+
+.leaseDealItem {
+  width: 46%;
+}
+
+.note {
+  font-size: 0.8vw;
+  line-height: 30px;
+  color: #e92d3e;
+  font-family: 'Audi Type Screen Bold', sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.amount {
+  font-size: 1vw;
+  line-height: 2.5vw;
+  color: #000000;
+  font-family: 'Audi Type Screen Bold', sans-serif;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.dollars {
+  font-size: 3vw;
+}
+
+.description {
+  font-size: 0.7vw;
+  line-height: 1.5vw;
+  color: #7a7a7a;
+  font-family: "Audi Type Screen Light", sans-serif;
+  font-weight: 300;
+}
+
+.signing {
+  font-size: 0.8vw;
+}
